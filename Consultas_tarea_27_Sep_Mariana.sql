@@ -11,16 +11,16 @@
 \
 \
 \
-/*Muestra el nombre del evento base junto con el g\'e9nero de los participantes de cada uno como "G\'e9nero"*/\
+/*Muestra el nombre del evento base junto con el género de los participantes de cada uno como "Género"*/\
 \
 \
 \
 /*Muestra el nombre de cada atleta junto con la/s medalla/s que obtuvo\
-NOTA: Pueden aparecer atletas repetidos ya que algunos participan en m\'e1s de un evento*/\
+NOTA: Pueden aparecer atletas repetidos ya que algunos participan en más de un evento*/\
 \
 \
 \
-/*Muestra las naciones y el n\'famero de atletas de cada una de ellas como "N\'famero de atletas"*/\
+/*Muestra las naciones y el número de atletas de cada una de ellas como "Número de atletas"*/\
 \
 \
 \
